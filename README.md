@@ -1,4 +1,4 @@
-# Admin, Student, and Teacher Management System
+# College Management System
 
 This project is a Spring Boot-based REST API designed to manage admins, students, and teachers within an educational institution. It provides a centralized system for adding, retrieving, updating, and deleting records for each entity, with clear role segregation and enhanced scalability. The system ensures efficient management and data integrity across multiple user roles.
 
